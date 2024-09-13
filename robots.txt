@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heacerife.github.io/sitemap.html.gz
+Sitemap: https://heacerife.github.io/app/sitemap.html.gz
+Sitemap: https://heacerife.github.io/assets/sitemap.html.gz
+Sitemap: https://heacerife.github.io/css/sitemap.html.gz
+Sitemap: https://heacerife.github.io/includes/sitemap.html.gz
+Sitemap: https://heacerife.github.io/item/sitemap.html.gz
+Sitemap: https://heacerife.github.io/src/sitemap.html.gz
